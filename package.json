@@ -57,3 +57,5 @@
     "node": ">=6.0"
   }
 }
+
+//we shoudl use 2.6.9 version
